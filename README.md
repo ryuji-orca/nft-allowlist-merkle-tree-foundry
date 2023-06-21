@@ -13,7 +13,7 @@ This code was used in [shachilog's]() [definitive] How to implement NFT's arrow 
 
 ## Useage
 
-[Install dependencies](https://book.getfoundry.sh/getting-started/installation)
+Read document [Installation](https://book.getfoundry.sh/getting-started/installation)
 
 ### Testing
 
@@ -37,14 +37,12 @@ anvil
 
 ```
 forge script script/NftFree.s.sol:NftFreeScript --fork-url http://localhost:8545 --broadcast --private-key $PRIVATE_KEY
-
 ```
 
 #### TestNet
 
 ```
 forge script script/NftFree.s.sol:NftFreeScript --rpc-url $GOERLI_RPC_URL --broadcast --verify -vvvv --private-key $PRIVATE_KEY
-
 ```
 
 ## License
