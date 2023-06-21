@@ -2,7 +2,7 @@
 
 ## About thiis
 
-This code was used in [shachilog's]() [definitive] How to implement NFT's arrow list (white list) with smart contracts.
+This code was used in shachilog's [[definitive] How to implement NFT's arrow list (white list) with smart contracts](https://www.shachilog.xyz/blog/nft-allowlist-smart-contract).
 
 ## Features
 
